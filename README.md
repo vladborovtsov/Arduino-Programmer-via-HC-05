@@ -36,3 +36,11 @@ copy/paste it and flash it onto your arduino. Sketch file is also available in t
 
 
 ## Step 2
+
+Hardware: 
+- Capacitor 1uf/16v 
+- Arduino Nano
+- Bluetooth HC-05 module
+- Mini breadboard
+- Jumper wires
+- Resistor 100 ohm

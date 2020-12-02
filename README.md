@@ -45,7 +45,7 @@ Hardware:
 - Jumper wires
 - Resistor 100 ohm
 
-<images here> 
+<img src="https://github.com/vladborovtsov/Arduino-Programmer-via-HC-05/raw/master/doc/images/step2_bb.png" height="400" />
   
 Time to setup our HC-05. At step 1 you have flashed arduino with sketch that will set up bluetooth module.
 

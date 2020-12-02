@@ -55,7 +55,7 @@ Time to setup our HC-05. At step 1 you have flashed arduino with sketch that wil
 - Keep holding the button, wait about 5 seconds
 - Unplug and re plug USB for reset from AT command mode
 
-If everything went well - after replug you should be able to to discover a bluetooth device named "ArduinoNano-Flasher". Also red led will be blinking fast on HC-05 module. 
+If everything went well - after replug you should be able to discover a bluetooth device named "ArduinoNano-Flasher". Also red led will be blinking fast on HC-05 module. 
 
 
 
@@ -68,3 +68,8 @@ Once you setup a pairing, two virtual COM-ports will be created automaticaly. On
 Once all done, try flashing a blink a example via bluetooth. 
 
 
+## Notes 
+
+- Resitor is not needed if you got a another bluetooth module with 5V levels. 
+- HC-05 module: https://aliexpress.ru/item/32786773297.html?spm=a2g0s.9042311.0.0.5d5233edrY1MiP&_ga=2.100804098.208141165.1606898230-1182854936.1582557877&_gac=1.250168948.1603013387.CjwKCAjwz6_8BRBkEiwA3p02VVee70Haqq5UUrKVNEZzYKKx9TKSEBXcL9Dq5UvrGHL8TlBh0VbyCxoCgygQAvD_BwE&sku_id=10000010469459308
+- HC-06 wont work. You need exactly HC-05. 

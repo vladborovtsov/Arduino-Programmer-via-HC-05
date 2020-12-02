@@ -56,3 +56,9 @@ Time to setup our HC-05. At step 1 you have flashed arduino with sketch that wil
 - Unplug and re plug USB for reset from AT command mode
 
 If everything went well - after replug you should be able to to discover a bluetooth device named "ArduinoNano-Flasher". Also red led will be blinking fast on HC-05 module. 
+
+
+
+## Step 3
+
+

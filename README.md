@@ -61,4 +61,10 @@ If everything went well - after replug you should be able to to discover a bluet
 
 ## Step 3
 
+Open your bluetooth software pair with flasher and setup a com-port. I'm not giving any details here as the process differs in operating systems. 
+I guess macos and linux users will find solution easily. For windows - just a hint: 
+Once you setup a pairing, two virtual COM-ports will be created automaticaly. One is inbound and antoher one is outbound. You have to use outbound oneto flash. 
+
+Once all done, try flashing a blink a example via bluetooth. 
+
 

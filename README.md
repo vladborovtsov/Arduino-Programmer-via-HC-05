@@ -46,6 +46,7 @@ Hardware:
 - Resistor 100 ohm
 
 <img src="https://github.com/vladborovtsov/Arduino-Programmer-via-HC-05/raw/master/doc/images/step2_bb.png" height="400" />
+<img src="https://github.com/vladborovtsov/Arduino-Programmer-via-HC-05/raw/master/doc/images/photo_2020-12-02_15-16-21.jpg" height="400" />
   
 Time to setup our HC-05. At step 1 you have flashed arduino with sketch that will set up bluetooth module.
 

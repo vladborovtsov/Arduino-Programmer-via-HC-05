@@ -44,3 +44,14 @@ Hardware:
 - Mini breadboard
 - Jumper wires
 - Resistor 100 ohm
+
+<images here> 
+  
+Time to setup our HC-05. At step 1 you have flashed arduino with sketch that will set up bluetooth module.
+
+- Press and hold KEY button on HC-05 module
+- Plug USB cable to power on arduino 
+- Keep holding the button, wait about 5 seconds
+- Unplug and re plug USB for reset from AT command mode
+
+If everything went well - after replug you should be able to to discover a bluetooth device named "ArduinoNano-Flasher". Also red led will be blinking fast on HC-05 module. 
